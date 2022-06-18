@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on rnn-t model
+- 🌱 I’m currently learning ml
+- 😄 Pronouns: he/him/his
 <!--
 **ptrBoguski/ptrBoguski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
